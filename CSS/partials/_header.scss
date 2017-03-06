@@ -1,0 +1,99 @@
+header {
+height: 100vh;
+background: url('../images/hacker.jpg')no-repeat;
+background-size: cover;
+background-position: center;
+// background-color: lightpink;
+}
+
+h1 {
+
+margin: 0;
+color: white;
+font-weight: bold;
+font-size: 5rem;
+text-shadow: 3px 3px 4px black;
+padding-top: 10px;
+margin-left: 20px;
+margin-bottom: 50px;
+
+}
+
+h1 span {
+display: inline;
+padding-left:2px;
+
+}
+
+
+.startQuiz {
+font-size: 2.5rem;
+border: 2px solid black;
+padding: 10px 10px;
+margin-top: 20%;
+font-weight: bold;
+
+
+}
+
+.startQuiz:hover{
+background: lightblue;	
+}
+
+.buttonContainer{
+text-align: center;
+}
+
+.circleFact1{
+
+position: absolute;
+right: 550px;
+top:500px;
+color: white;
+width:20px;
+height:20px;
+border-radius:50px;
+font-size:20px;
+line-height:100px;
+text-align:center;
+background:white;
+
+}
+
+.circleFact2 {
+position: absolute;
+right: 550px;
+top: 20px;
+color: white;
+width:20px;
+height:20px;
+border-radius:50px;
+font-size:20px;
+color:#fff;
+line-height:100px;
+text-align:center;
+background:white;
+}
+
+
+.circleFact3{
+position: absolute;
+color: white;
+right: 800px;
+top: 300px;
+width:20px;
+height:20px;
+border-radius:50px;
+font-size:20px;
+color:#fff;
+line-height:100px;
+text-align:center;
+background:white;
+}
+
+.infoPoints{
+	display: flex;
+}
+
+
+

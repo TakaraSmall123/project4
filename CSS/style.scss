@@ -1,0 +1,16 @@
+@import 'partials/normalize' ;
+@import 'partials/quiz';
+@import 'partials/header';
+@import 'partials/notes';
+@import 'partials/nytResults';
+@import 'partials/hackInfo';
+
+html {
+font-size: 62.5%;
+}
+
+footer {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
